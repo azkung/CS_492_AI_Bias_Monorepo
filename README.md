@@ -16,3 +16,7 @@ This repository is the Monorepo for the CS 492 AI Bias project. It contains the 
 ## Website (Description)
 
 [https://cs492-project-woad.vercel.app/](https://cs492-project-woad.vercel.app/)
+
+## TRY IT YOURSELF Section note
+
+Note that the "TRY IT YOURSELF" section depends on a hosted flask server. However it is unlikely that the server will be running at any given time.
