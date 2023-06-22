@@ -1,0 +1,9 @@
+[submodule "CS492-Project"]
+	path = CS492-Project
+	url = git@github.com:vicswu/CS492-Project.git
+[submodule "cs492-inference-service"]
+	path = cs492-inference-service
+	url = git@github.com:shaishav-p/cs492-inference-service.git
+[submodule "AI-Bias-Experiment"]
+	path = AI-Bias-Experiment
+	url = git@github.com:jhargun/AI-Bias-Experiment.git
