@@ -15,4 +15,4 @@ This repository is the Monorepo for the CS 492 AI Bias project. It contains the 
 
 ## Website (Description)
 
-[Website Link](https://cs492-project-woad.vercel.app/)
+[](https://cs492-project-woad.vercel.app/)
