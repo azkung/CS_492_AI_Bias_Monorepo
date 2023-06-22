@@ -8,10 +8,10 @@ This repository is the Monorepo for the CS 492 AI Bias project. It contains the 
 
 ## Contributors
 
-- [Hargun, Jaswin]
-- [Kung, Alexander]
-- [Patel, Shaishav]
-- [Wu, Victor]
+- Hargun, Jaswin
+- Kung, Alexander
+- Patel, Shaishav
+- Wu, Victor
 
 ## Website (Description)
 
